@@ -18,7 +18,7 @@
 cat Animals
 * mv "Animals" "Друзья человека"
 
-
+![1](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/1_2.png
 
 
 ### 2. 
@@ -30,7 +30,7 @@ ls
 cd folder_for_attestation/
 ls
 
-
+![2](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/2.png
 
 ### 3.
 
@@ -39,6 +39,10 @@ sudo apt update
 sudo apt install mysql-server
 sudo service mysql status
 
+![3](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/3_1.png
+![3.1](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/3_2.png
+![3.2](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/3_3.png
+![3.3](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/3_4.png
 
 ### 4.
 
@@ -46,6 +50,7 @@ sudo service mysql status
 sudo dpkg -i sl_5.02-1_amd64.deb
 sudo dpkg -r sl
 
+![4](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/4_2.png
 
 ### 5.
 
@@ -95,12 +100,16 @@ sudo dpkg -r sl
 * 773  clear
 * 774  history
 
+![5](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/5.png
 
 ### 6.
 
+![6](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/diagram.png
 
 ### 7.
 * CREATE DATABASE Друзья_человека;
+
+![7](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/7.png
 
 
 ### 8.
@@ -182,6 +191,7 @@ FOREIGN KEY (id) REFERENCES Вьючные_животные(id)
 show databases;
 show tables;
 
+![8](https://github.com/DeniskaGuzanov/Final_work_linux/blob/master/8.png
 
 ### 9.
 
@@ -252,6 +262,6 @@ UNION ALL
 UNION ALL
 * SELECT 'Ослы' AS тип_животного, имя, команда, дата_рождения FROM Ослы;
 
-### 13 - Java
-### 14 - Java
-### 15 - Java
+### 13 - Java ![Перейти](https://github.com/DeniskaGuzanov/Final_work_linux/tree/master/src/Java
+### 14 - Java ![Перейти](https://github.com/DeniskaGuzanov/Final_work_linux/tree/master/src/Java
+### 15 - Java ![Перейти](https://github.com/DeniskaGuzanov/Final_work_linux/tree/master/src/Java
